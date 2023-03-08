@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Complete Responsive Food Website Design Tutorial</title>
+    <title>Welcome</title>
 
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
 
@@ -42,7 +42,7 @@
 
 <header>
 
-    <a href="#" class="logo"><i class="fas fa-utensils"></i> Aslan Resto.</a>
+    <a href="#" class="logo"><i class="fas fa-utensils"></i> Savory</a>
 
     <nav class="navbar">
         <a class="active" href="#home">home</a>
@@ -57,7 +57,7 @@
         <i class="fas fa-bars" id="menu-bars"></i>
         <i class="fas fa-search" id="search-icon"></i>
         <a href="#" class="fas fa-heart"></a>
-        <a href="#" class="fas fa-shopping-cart"></a>
+        <a href="/cart_detail" class="fas fa-shopping-cart"></a>
 
         <div class="dropdown">
             <a href="#" class="fas fa-lock"></a>
